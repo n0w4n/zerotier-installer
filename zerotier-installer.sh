@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Tool to install Zerotier one client
-
+# created by n0w4n
 
 ################################## HELP-MENU ######################################
 
